@@ -19,6 +19,10 @@
   }
 }
 ```
+使用场景：
+ * 需要快速打开各个业务应用服务相应操作地址
+ * 常用的工具网址收藏， 减少使用网页的收藏夹
+ ....
 
 ![二级写法](https://github.com/StephinChou/Wox.Plugin.AliasOpen/blob/master/ao1.png)
 
