@@ -1,0 +1,14 @@
+{
+  "game": {
+    "url": "http://www.gamersky.com/#id#",
+    "desc": "游民星空",
+    "ids": {
+      "趣味": "ent/qw/",
+      "壁纸": "ent/wp/"
+    }
+  },
+  "bili": {
+  	"url": "https://space.bilibili.com/9052944/",
+  	"desc": "哔哩哔哩动画"
+  }
+}

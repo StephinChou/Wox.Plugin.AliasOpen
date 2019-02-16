@@ -1,0 +1,12 @@
+{
+    "ID":"0489be0a-2c64-4cec-901b-cb23dc9294cd",
+    "ActionKeyword":"op",
+    "Name":"Alias Open",
+    "Description":"open a url with alias",
+    "Author":"waitingZhou",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/StephinChou",
+    "IcoPath":"Images\\alias.png",
+    "ExecuteFileName":"main.py"
+}
