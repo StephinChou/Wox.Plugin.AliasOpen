@@ -20,3 +20,6 @@
 }
 ```
 
+![二级写法](https://github.com/StephinChou/Wox.Plugin.AliasOpen/blob/master/ao1.png)
+
+![一级写法](https://github.com/StephinChou/Wox.Plugin.AliasOpen/blob/master/ao2.png)
